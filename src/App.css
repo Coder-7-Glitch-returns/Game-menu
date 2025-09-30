@@ -1,0 +1,22 @@
+body {
+  background: -webkit-linear-gradient(
+    135deg,
+    #0f0c29,
+    #302b63,
+    #24243e
+  ) !important;
+  background: linear-gradient(135deg, #0f0c29, #302b63, #24243e) !important;
+  color: white;
+  height: 100vh;
+}
+
+button {
+  cursor: pointer;
+  outline: none !important;
+}
+
+button,
+input,
+textarea {
+  outline: none !important;
+}
